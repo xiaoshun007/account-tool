@@ -25,3 +25,6 @@ https://github.com/imvast/Discord-Account-Creator
 
 ## 2023年9月土耳其区数字优惠汇总
 https://hackfang.me/turkey-digital-count
+
+## VPS论坛黑话术语大全
+https://www.henghost.com/news/article/27672/?jsmc=30a8796d47&jsme=1706597140
