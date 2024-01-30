@@ -22,3 +22,6 @@ https://github.com/imvast/Discord-Account-Creator
 
 ## iCloud
 土耳其区购买：https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf
+
+## 2023年9月土耳其区数字优惠汇总
+https://hackfang.me/turkey-digital-count
