@@ -13,3 +13,6 @@ ChatGPT账号批量注册方法（完整图文教程）https://www.gptxuexiba.co
 ## Gmail
 Gmail创建（5年前的可用未知）https://github.com/leedavid/Google-Auto-Register-Gmail
 （应该可行）https://github.com/ai-to-ai/Auto-Gmail-Creator
+
+## Outlook
+https://github.com/sangeeta-dev/outlook-account-generator
