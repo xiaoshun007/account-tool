@@ -16,3 +16,6 @@ Gmail创建（5年前的可用未知）https://github.com/leedavid/Google-Auto-R
 
 ## Outlook
 https://github.com/sangeeta-dev/outlook-account-generator
+
+## Discord
+https://github.com/imvast/Discord-Account-Creator
