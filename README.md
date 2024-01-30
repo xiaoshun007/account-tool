@@ -19,3 +19,6 @@ https://github.com/sangeeta-dev/outlook-account-generator
 
 ## Discord
 https://github.com/imvast/Discord-Account-Creator
+
+## iCloud
+土耳其区购买：https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf
